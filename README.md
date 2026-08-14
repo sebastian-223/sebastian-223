@@ -1,4 +1,6 @@
 # 💫 About Me:
+FULLSTACK DEVELOPER
+<p></p>
 🌐 I’m currently working on real-world web apps and expanding my full-stack development experience<br>🤝 I’m looking to collaborate on creative web products and developer communities<br>🚀 I’m looking for help with performance optimization and scalable architecture<br>📚 I’m currently learning MERN Stack and best practices for modern web development<br>💬 Ask me about React, JavaScript, and building responsive websites<br>⚡ Fun fact: I love bringing ideas to life through code and great user experiences
 
 
